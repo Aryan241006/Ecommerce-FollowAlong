@@ -1,0 +1,89 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Wireless Headphones",
+        "image": "https://webp.br.cdn.pxr.nl/news/2024/10/29/4c940ce8d8408adb46e7c4ab340a68984c70e8b1.jpg?width=1800",
+        "price": 129.99,
+        "description": "High-quality noise-cancelling wireless headphones with long battery life"
+      },
+      {
+        "id": 2,
+        "name": "Smart Watch",
+        "image": "https://webp.br.cdn.pxr.nl/news/2024/10/29/4c940ce8d8408adb46e7c4ab340a68984c70e8b1.jpg?width=1800", 
+        "price": 199.50,
+        "description": "Advanced fitness tracking smartwatch with heart rate monitor"
+      },
+      {
+        "id": 3,
+        "name": "Portable Speaker",
+        "image": "https://webp.br.cdn.pxr.nl/news/2024/10/29/4c940ce8d8408adb46e7c4ab340a68984c70e8b1.jpg?width=1800",
+        "price": 79.99,
+        "description": "Waterproof Bluetooth speaker with 360-degree sound"
+      },
+      {
+        "id": 4,
+        "name": "Wireless Earbuds",
+        "image": "https://webp.br.cdn.pxr.nl/news/2024/10/29/4c940ce8d8408adb46e7c4ab340a68984c70e8b1.jpg?width=1800",
+        "price": 89.99,
+        "description": "True wireless earbuds with noise cancellation and touch controls"
+      },
+      {
+        "id": 5,
+        "name": "Gaming Mouse",
+        "image": "https://webp.br.cdn.pxr.nl/news/2024/10/29/4c940ce8d8408adb46e7c4ab340a68984c70e8b1.jpg?width=1800",
+        "price": 59.99,
+        "description": "Ergonomic RGB gaming mouse with programmable buttons"
+      },
+      {
+        "id": 6,
+        "name": "Fitness Tracker",
+        "image": "https://webp.br.cdn.pxr.nl/news/2024/10/29/4c940ce8d8408adb46e7c4ab340a68984c70e8b1.jpg?width=1800",
+        "price": 49.99,
+        "description": "Slim fitness band with sleep tracking and notifications"
+      }
+    ,
+    {
+      "id": 7,
+      "name": "4K Monitor",
+      "image": "https://webp.br.cdn.pxr.nl/news/2024/10/29/4c940ce8d8408adb46e7c4ab340a68984c70e8b1.jpg?width=1800",
+      "price": 349.99,
+      "description": "Ultra HD 4K monitor with HDR support and slim design"
+    },
+    {
+      "id": 8,
+      "name": "Mechanical Keyboard",
+      "image": "https://webp.br.cdn.pxr.nl/news/2024/10/29/4c940ce8d8408adb46e7c4ab340a68984c70e8b1.jpg?width=1800",
+      "price": 129.99,
+      "description": "RGB mechanical keyboard with customizable keys"
+    },
+    {
+      "id": 9,
+      "name": "Drone",
+      "image": "https://webp.br.cdn.pxr.nl/news/2024/10/29/4c940ce8d8408adb46e7c4ab340a68984c70e8b1.jpg?width=1800",
+      "price": 499.99,
+      "description": "High-performance drone with 4K camera and GPS"
+    },
+    {
+      "id": 10,
+      "name": "Smartphone",
+      "image": "https://webp.br.cdn.pxr.nl/news/2024/10/29/4c940ce8d8408adb46e7c4ab340a68984c70e8b1.jpg?width=1800",
+      "price": 699.99,
+      "description": "Latest model smartphone with high-resolution display and fast processor"
+    },
+    {
+      "id": 11,
+      "name": "Laptop",
+      "image": "https://webp.br.cdn.pxr.nl/news/2024/10/29/4c940ce8d8408adb46e7c4ab340a68984c70e8b1.jpg?width=1800",
+      "price": 999.99,
+      "description": "Powerful laptop with high-end specs and long battery life"
+    },
+    {
+      "id": 12,
+      "name": "Tablet",
+      "image": "https://webp.br.cdn.pxr.nl/news/2024/10/29/4c940ce8d8408adb46e7c4ab340a68984c70e8b1.jpg?width=1800",
+      "price": 299.99,
+      "description": "Lightweight tablet with high-resolution screen and ample storage"
+    }
+    ]
+  }
